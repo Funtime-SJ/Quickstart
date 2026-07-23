@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import bucketlist from "./app";
 import { useState } from 'react';
 
 const initialList = [
